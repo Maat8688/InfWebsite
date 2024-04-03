@@ -1,1 +1,2 @@
-nog niks
+Flask==2.0.1
+gunicorn==20.0.4  # If you plan to deploy with Gunicorn
